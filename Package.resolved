@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Segment",
+        "repositoryURL": "https://github.com/segmentio/analytics-ios",
+        "state": {
+          "branch": null,
+          "revision": "fc64997865619f73bbab196c164f7845a13da110",
+          "version": "4.1.6"
+        }
+      },
+      {
+        "package": "Adjust",
+        "repositoryURL": "https://github.com/adjust/ios_sdk",
+        "state": {
+          "branch": null,
+          "revision": "43c5bb5eb8f77c72da856637dac5c46087c27848",
+          "version": "4.29.6"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
