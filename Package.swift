@@ -13,11 +13,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/adjust/ios_sdk", from: "4.29.3"),
         .package(url: "https://github.com/segmentio/analytics-ios", from: "4.1.6")
-    ],
-    
-    targets: [
-        .targets: [.target(name: "Pod", path: "Classes")
-     ]
+    ]
 )
 
 
