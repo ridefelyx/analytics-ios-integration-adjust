@@ -7,7 +7,7 @@ let package = Package(
       products: [
         .library(
             name: "Segment_Adjust",
-            targets: [""]
+            targets: ["Segment_Adjust"]
         )
     ],
     dependencies: [
