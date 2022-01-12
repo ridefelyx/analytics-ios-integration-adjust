@@ -16,8 +16,8 @@ let package = Package(
     ],
     
     targets: [
-        .targets: [.target(name: "Pod", path: "Classes")]
-    ]
+        .targets: [.target(name: "Pod", path: "Classes")
+     ]
 )
 
 
